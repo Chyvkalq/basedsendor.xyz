@@ -1,1 +1,1 @@
-# /basedsendor.vercel.xyz/
+# basedsendor.vercel.xyz

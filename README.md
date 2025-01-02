@@ -1,1 +1,1 @@
-# basedsendor.xyz
+# https://basedsendor.vercel.xyz
